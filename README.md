@@ -53,5 +53,3 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 ---
 
 Happy coding! 💻
-
-This modified `README.md` now clearly specifies that all solutions are in JavaScript, includes your GitHub username, and incorporates emojis to make the document more engaging and visually appealing.
