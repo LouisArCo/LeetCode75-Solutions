@@ -1,6 +1,6 @@
 # LeetCode 75 Solutions 🚀
 
-This repository contains my solutions to the [LeetCode 75](https://leetcode.com/list/xoqag3yj/) study plan 📚, a curated list of 75 questions selected by LeetCode to help improve your problem-solving skills in programming. The list covers various topics essential for brushing up on data structures and algorithms. All solutions are implemented in JavaScript 🟨.
+This repository contains my solutions to the [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) study plan 📚, a curated list of 75 questions selected by LeetCode to help improve your problem-solving skills in programming. The list covers various topics essential for brushing up on data structures and algorithms. All solutions are implemented in JavaScript 🟨.
 
 ## About LeetCode 75 📖
 
