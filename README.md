@@ -10,8 +10,7 @@ LeetCode 75 is a collection of algorithmic challenges designed to help you impro
 
 Each solution in this repository is organized by topic, mirroring the structure of the LeetCode 75 list. Here's the structure:
 
-- Arrays
-- Strings
+- Arrays & String
 - Linked Lists
 - Trees
 - Graphs
@@ -21,7 +20,7 @@ Each solution in this repository is organized by topic, mirroring the structure 
 
 The solutions are provided in JavaScript. Here is how the solutions are organized:
 
-- `/Arrays & Strings`
+- `/Arrays & String`
   - `1234. Problem Title 1.js`
 - `/Two Pointers`
   - `1235. Problem Title 2.js`
